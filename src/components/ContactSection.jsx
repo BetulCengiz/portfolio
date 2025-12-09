@@ -72,7 +72,7 @@ export const ContactSection = () => {
                 <a href="https://www.youtube.com/channel/UCqQ4kIuaShtzA4Kb3fmvggA" target="_blank">
                   <Youtube />
                 </a>
-                <a href="https://www.instagram.com/betul_cengiz/?hl=tr" target="_blank">
+                <a href="https://www.instagram.com/codebybety/?hl=tr" target="_blank">
                   <Instagram />
                 </a>
               </div>
