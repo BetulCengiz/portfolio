@@ -86,7 +86,7 @@ export const ContactSection = () => {
             <form onSubmit={handleSubmit} className="space-y-6">
 
               {/* Web3Forms Access Key */}
-              <input type="hidden" name="access_key" value="e2c562bd-415f-4253-927c-4caf1f0634b1" />
+              <input type="hidden" name="access_key" value="WEB3FORMS_API_KEYIN" />
 
               <div>
                 <label htmlFor="name" className="block text-sm font-medium mb-2">
